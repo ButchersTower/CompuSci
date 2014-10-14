@@ -1,4 +1,4 @@
-package stringNumbers;
+package CompuSci.stringNumbers;
 
 import java.util.Scanner;
 

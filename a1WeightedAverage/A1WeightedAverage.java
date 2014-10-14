@@ -1,4 +1,4 @@
-package a1WeightedAverage;
+package CompuSci.a1WeightedAverage;
 
 import java.util.Scanner;
 

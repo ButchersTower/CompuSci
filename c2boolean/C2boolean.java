@@ -1,4 +1,4 @@
-package c2boolean;
+package CompuSci.c2boolean;
 
 public class C2boolean {
 	void a1(int p1, int p2) {

@@ -1,4 +1,4 @@
-package cw3oneDArrays;
+package CompuSci.c3oneDArrays;
 
 import java.util.Scanner;
 

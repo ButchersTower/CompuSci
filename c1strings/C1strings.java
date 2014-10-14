@@ -1,4 +1,4 @@
-package c1strings;
+package CompuSci.c1strings;
 
 public class C1strings {
 
