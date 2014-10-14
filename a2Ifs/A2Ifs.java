@@ -23,7 +23,7 @@ public class A2Ifs {
 
 	// February's max length is 29 because I'm all right with diversity.
 	// but mainly because I don't now what year they were born during.
-	int[] monthLength = { 31, 29, 21, 20, 21, 20, 21, 21, 20, 21, 20, 21 };
+	int[] monthLength = { 31, 29, 31, 30, 31, 30, 31, 31, 30, 31, 30, 31 };
 
 	String[] predictions = { "Aquarious prediction", "Pisces prediction",
 			"Aries prediction", "Taurus prediction", "Gemini prediction",
