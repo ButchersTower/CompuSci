@@ -58,8 +58,7 @@ public class A2Ifs {
 		int yourSign;
 		// if(birthDay >= startingBound[birthMonth])
 		yourSign = birthDay < startingBound[birthMonth] ? birthMonth
-				: birthMonth + 1;
-		yourSign = yourSign == 12 ? 0 : yourSign;
+				: (birthMonth == 11) ? 0 : birthMonth + 1;
 		System.out.println(sign[yourSign] + ": " + predictions[yourSign]);
 	}
 
