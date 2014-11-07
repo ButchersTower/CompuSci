@@ -1,4 +1,4 @@
-package CompuSci.ex1booleans;
+package CompuSci;
 
 import java.util.Scanner;
 

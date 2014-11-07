@@ -1,4 +1,4 @@
-package CompuSci.a2Ifs;
+package CompuSci;
 
 import java.util.Scanner;
 
