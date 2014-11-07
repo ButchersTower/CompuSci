@@ -1,6 +1,6 @@
 package CompuSci;
 
-public class C1strings {
+public class C1Strings {
 
 	public static void main(String[] args) {
 		activity1();

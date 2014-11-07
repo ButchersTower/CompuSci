@@ -1,4 +1,4 @@
-package Class;
+package CompuSci.Unsorted;
 
 public class IterationsActivity {
 

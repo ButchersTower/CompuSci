@@ -1,6 +1,6 @@
 package CompuSci;
 
-public class C2boolean {
+public class C2Boolean {
 	void a1(int p1, int p2) {
 		boolean invite = false;
 		if (p1 + p2 > 120 || p1 + p2 < 15 || p1 > 85 || p2 > 85) {

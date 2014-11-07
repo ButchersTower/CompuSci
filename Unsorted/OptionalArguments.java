@@ -1,4 +1,4 @@
-package Class;
+package CompuSci.Unsorted;
 
 public class OptionalArguments {
 	public static void main(String[] args) {

@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 import org.xml.sax.InputSource;
 
-public class Cw3oneDArrays {
+public class Cw3OneDArrays {
 	static Scanner scan = new Scanner(System.in);
 
 	static int[] inputs = new int[6];
